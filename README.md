@@ -57,20 +57,22 @@
 
 ------ 
 
-> [Smilebox Digital Greeting Cards:](https://mailancoma.myportfolio.com/digital-greeting-cards)
+> [SMILEBOX DIGITAL GREETING CARDS](https://mailancoma.myportfolio.com/digital-greeting-cards)
 * Collaboration with the global Smilebox team and headquarters in Israel designing animated online greeting cards.
 * **Technologies:** Illustrator, Photoshop, Slack/Basecamp
 
-[ABC German School:](https://abcgermanschool.com/)
-- Redesign including concept, content structure, photography, coding and maintenance. **Technologies:** Lightroom, Photoshop, Illustrator, Wordpress, HTML/CSS
+> [ABC GERMAN SCHOOL](https://abcgermanschool.com/)
+* Redesign including concept, content structure, photography, coding and maintenance.
+* **Technologies:** Lightroom, Photoshop, Illustrator, Wordpress, HTML/CSS
 
-[Wander Vault App:](https://www.behance.net/gallery/107278299/Wander-Vault)
-- User research, analysis, concept, prototyping & design system. **Technologies:** Sketch, Illustrator 	
+> [WANDER VAULT APP](https://www.behance.net/gallery/107278299/Wander-Vault)
+* User research, analysis, concept, prototyping & design system.
+* **Technologies:** Sketch, Illustrator 	
 
-[Web Portfolio:](https://ancomade.com/portfolio/)
-[Behance:](https://www.behance.net/andreaconant)
-[MyPortfolio:](https://mailancoma.myportfolio.com/work)
-- Showing more digital and print design, typography and logo development
+> [Web Portfolio:](https://ancomade.com/portfolio/)
+> [Behance:](https://www.behance.net/andreaconant)
+> [MyPortfolio:](https://mailancoma.myportfolio.com/work)
+* Showing more digital and print design, typography and logo development
 
 --------------------------------------------------------------------------------------
 
