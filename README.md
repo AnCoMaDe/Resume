@@ -113,11 +113,6 @@ Sketch & Figma - HTML, CSS & Wordpress</p>
 
 <p align="center">Teamwork, Organization, Self-Guided - Creativity, Inspiration & Intuition - Thinking Outside<br>the Box & Creative Problem Solving - Analysis & Implementation.<br>
 Languages: English Professional Proficiency, German Native Speaker</p>
-- Teamwork, Organization, Self-Guided
-- Creativity, Inspiration, Intuition
-- Thinking Outside the Box, Creative Problem Solving
-- Analysis, Implemention
-- Languages: Professional Proficiency English, Native Speaker German
 
 ------
 
@@ -133,3 +128,12 @@ Languages: English Professional Proficiency, German Native Speaker</p>
 
 **JORGE CAMACHO** | Production Artist & Photographer
 > 206 465 3534 | elnohay1@gmail.com
+
+------
+
+<h3 align="center">MISC</h3>
+
+------
+
+<p align="center">
+ <a href="http://www.anitaelder.biz/miscellaneous/design-graduates-ready-to-join-the-workforce/#:~:text=Andrea%20Conant-Machl">DESIGN BLOG MENTION</a></p>
