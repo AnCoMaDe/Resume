@@ -10,7 +10,9 @@ I am a visual designer with a certiﬁcate for user-centered design, thriving on
 
 ### EXPERIENCE
 -----------------
-#### FREELANCE GRAPHIC DESIGNER | ancomade design | Redmond | 2018 - present 
+#### FREELANCE GRAPHIC DESIGNER 
+_**ancomade design | Redmond | 2018 - present**_ 
+
 Logo and brand development for small  businesses (German real estate holding TREUHANSA Hamburg, Kirkland Accupuncture). Amazon enhanced brand content listings including photography for Coolerguys. Website concept and programming (ABC German School). Illustrations and virtual templates for Smilebox animated greeting cards mobile and web. Logo development and branding.
 
 #### NON-PROFIT PROJECTS AND FREELANCE OPPORTUNITIES | Various Companies | 2005 - present
