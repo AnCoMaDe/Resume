@@ -81,19 +81,20 @@
 ------ 
 
 **USER-CENTERED DESIGN**
-> **Lake Washington Institute of Technology, Kirkland**
+> **Lake Washington Institute of Technology, Kirkland**<br>
 > 2017 - 2018 | Summa Cum Laude
 
-*MULTIMEDIA DESIGN & PRODUCTION ASSOCIATES DEGREE*
-Lake Washington Institute of Technology, Kirkland
-2015 - 2017 | Magna Cum Laude
+**MULTIMEDIA DESIGN & PRODUCTION ASSOCIATES DEGREE**
+> **Lake Washington Institute of Technology, Kirkland**<br>
+> 2015 - 2017 | Magna Cum Laude
 
-*CERTIFIED DESIGNER FOR VISUAL MARKETING*
-Kaufhof AG - Major Retail Chain
-Chamber of Commerce Munich & Upper Bavaria Munich, Germany | 1990 - 1993
+**CERTIFIED DESIGNER FOR VISUAL MARKETING**
+> **Kaufhof AG - Major Retail Chain**<br>
+> Chamber of Commerce Munich & Upper Bavaria Munich, Germany | 1990 - 1993
 
-*LICENSED INSTRUCTOR FOR DESIGNERS FOR VISUAL MARKETING*
-Chamber of Commerce Friedberg/Hesse Friedberg, Germany | 1998
+**LICENSED INSTRUCTOR FOR DESIGNERS FOR VISUAL MARKETING**
+> **Chamber of Commerce Friedberg/Hesse Friedberg, Germany**<br>
+> 1998
 
 ------
 
@@ -124,8 +125,11 @@ Languages: English Professional Proficiency, German Native Speaker</p>
 
 ------
 
-- DARIA SCHUBERT | Owner Schubert Design and Professor at LW Tech | 425 503 6485 | daria@dariaschubert.com
+**DARIA SCHUBERT** | Owner Schubert Design and Professor at LW Tech
+> 425 503 6485 | daria@dariaschubert.com
 
-- NADJA PENRY | Owner ABC German School | 425 445 4082 | nadja@abcgermanschool.com
+**NADJA PENRY** | Owner ABC German School
+> 425 445 4082 | nadja@abcgermanschool.com
 
-- JORGE CAMACHO | Production Artist & Photographer | 206 465 3534 | elnohay1@gmail.com
+**JORGE CAMACHO** | Production Artist & Photographer
+> 206 465 3534 | elnohay1@gmail.com
