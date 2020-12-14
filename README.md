@@ -40,7 +40,7 @@
 > **Bonhorst & Co. Advertising Agency** | Munich | 2000 - 2004  
 * Concept, design, execution and pitch layouts of full range of print projects. 
 * Pre-press preparation. 
-* Concept and Design of websites. 
+* Concept and design of websites. 
 * Art direction covering customer contact, project management and overseeing of multiple projects. 
 
  **DESIGNER FOR VISUAL MERCHANDISING AND MARKETING**  
@@ -111,8 +111,8 @@ Sketch & Figma - HTML, CSS & Wordpress</p>
 
 ------
 
-<p align="center">Teamwork, Organization, Self-Guided - Creativity, Inspiration & Intuition - Thinking Outside<br>the Box & Creative Problem Solving - Analysis & Implementation.<br>
-Languages: English Professional Proficiency, German Native Speaker</p>
+<p align="center">Teamwork, organization, self-guided - creativity, inspiration & intuition - thinking outside<br>the box & creative problem solving - analysis & implementation.<br>
+Languages: English professional proficiency, German native speaker</p>
 
 ------
 
