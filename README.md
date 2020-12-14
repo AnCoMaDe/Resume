@@ -86,11 +86,8 @@ Chamber of Commerce Friedberg/Hesse Friedberg, Germany | 1998
 
 ### REFERENCES
 ------------
-- DARIA SCHUBERT | Owner Schubert Design and Professor at LW Tech
-P. 425 503 6485 | M. daria@dariaschubert.com
+- DARIA SCHUBERT | Owner Schubert Design and Professor at LW Tech | 425 503 6485 | daria@dariaschubert.com
 
-- NADJA PENRY | Owner ABC German School
-P. 425 445 4082 | M. nadja@abcgermanschool.com
+- NADJA PENRY | Owner ABC German School | 425 445 4082 | nadja@abcgermanschool.com
 
-- JORGE CAMACHO | Production Artist & Photographer
-P. 206 465 3534 | M. elnohay1@gmail.com
+- JORGE CAMACHO | Production Artist & Photographer | 206 465 3534 | elnohay1@gmail.com
