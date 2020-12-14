@@ -10,7 +10,9 @@ I am a visual designer with a certiﬁcate for user-centered design, thriving on
 
 ### EXPERIENCE
 -----------------
-#### FREELANCE GRAPHIC DESIGNER | ancomade design | Redmond | 2018 - present 
+#### FREELANCE GRAPHIC DESIGNER 
+_**ancomade design | Redmond | 2018 - present**_ 
+
 Logo and brand development for small  businesses (German real estate holding TREUHANSA Hamburg, Kirkland Accupuncture). Amazon enhanced brand content listings including photography for Coolerguys. Website concept and programming (ABC German School). Illustrations and virtual templates for Smilebox animated greeting cards mobile and web. Logo development and branding.
 
 #### NON-PROFIT PROJECTS AND FREELANCE OPPORTUNITIES | Various Companies | 2005 - present
@@ -86,11 +88,8 @@ Chamber of Commerce Friedberg/Hesse Friedberg, Germany | 1998
 
 ### REFERENCES
 ------------
-- DARIA SCHUBERT | Owner Schubert Design and Professor at LW Tech
-P. 425 503 6485 | M. daria@dariaschubert.com
+- DARIA SCHUBERT | Owner Schubert Design and Professor at LW Tech | 425 503 6485 | daria@dariaschubert.com
 
-- NADJA PENRY | Owner ABC German School
-P. 425 445 4082 | M. nadja@abcgermanschool.com
+- NADJA PENRY | Owner ABC German School | 425 445 4082 | nadja@abcgermanschool.com
 
-- JORGE CAMACHO | Production Artist & Photographer
-P. 206 465 3534 | M. elnohay1@gmail.com
+- JORGE CAMACHO | Production Artist & Photographer | 206 465 3534 | elnohay1@gmail.com
