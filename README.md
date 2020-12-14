@@ -104,20 +104,26 @@ Chamber of Commerce Friedberg/Hesse Friedberg, Germany | 1998
 <p align="center">Photoshop, Illustrator, InDesign & Lightroom - After Effects - MS Office Suite - XD, <br>
 Sketch & Figma - HTML, CSS & Wordpress</p>
 
----------------------------------------------------------------------------------------
+------
 
-### SOFT SKILLS
-------------
+<h3 align="center">SOFT SKILLS</h3>
+
+------
+
+<p align="center">Teamwork, Organization, Self-Guided - Creativity, Inspiration & Intuition - Thinking Outside<br>the Box & Creative Problem Solving - Analysis & Implementation.<br>
+Languages: English Professional Proficiency, German Native Speaker</p>
 - Teamwork, Organization, Self-Guided
 - Creativity, Inspiration, Intuition
 - Thinking Outside the Box, Creative Problem Solving
 - Analysis, Implemention
 - Languages: Professional Proficiency English, Native Speaker German
 
----------------------------------------------------------------------------------------
+------
 
-### REFERENCES
-------------
+<h3 align="center">REFERENCES</h3>
+
+------
+
 - DARIA SCHUBERT | Owner Schubert Design and Professor at LW Tech | 425 503 6485 | daria@dariaschubert.com
 
 - NADJA PENRY | Owner ABC German School | 425 445 4082 | nadja@abcgermanschool.com
