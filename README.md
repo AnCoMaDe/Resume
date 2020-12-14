@@ -69,15 +69,17 @@
 * User research, analysis, concept, prototyping & design system.
 * **Technologies:** Sketch, Illustrator 	
 
-> [Web Portfolio:](https://ancomade.com/portfolio/)
-> [Behance:](https://www.behance.net/andreaconant)
-> [MyPortfolio:](https://mailancoma.myportfolio.com/work)
+> [Web Portfolio](https://ancomade.com/portfolio/) | 
+> [Behance:](https://www.behance.net/andreaconant) | 
+> [MyPortfolio](https://mailancoma.myportfolio.com/work)
 * Showing more digital and print design, typography and logo development
 
---------------------------------------------------------------------------------------
+------
 
-### EDUCATION | TRAINING | CERTIFICATIONS
-------------------------------------------
+<h3 align="center">EDUCATION | TRAINING | CERTIFICATIONS</h3>
+
+------ 
+
 *USER-CENTERED DESIGN*
 Lake Washington Institute of Technology, Kirkland
 2017 - 2018 | Summa Cum Laude
@@ -93,15 +95,14 @@ Chamber of Commerce Munich & Upper Bavaria Munich, Germany | 1990 - 1993
 *LICENSED INSTRUCTOR FOR DESIGNERS FOR VISUAL MARKETING*
 Chamber of Commerce Friedberg/Hesse Friedberg, Germany | 1998
 
----------------------------------------------------------------------------------------
+------
 
-### PRO SKILLS
-------------
-- Photoshop, Illustrator, InDesign, Lightroom
-- After Effects
-- MS Office Suite
-- XD, Sketch, Figma
-- HTML, CSS, Wordpress
+<h3 align="center">PRO SKILLS</h3>
+
+------
+
+<p align="center">Photoshop, Illustrator, InDesign & Lightroom - After Effects - MS Office Suite - XD, <br>
+Sketch & Figma - HTML, CSS & Wordpress</p>
 
 ---------------------------------------------------------------------------------------
 
