@@ -16,34 +16,34 @@
 
 ------  
 
-> **FREELANCE GRAPHIC DESIGNER**  
+ **FREELANCE GRAPHIC DESIGNER**  
 > **ancomade design** | Redmond | 2018 - Present  
 * Logo and brand development for small  businesses (German real estate holding TREUHANSA Hamburg, Kirkland Accupuncture). 
 * Amazon enhanced brand content listings including photography for Coolerguys. 
 * Website concept and programming (ABC German School). 
 * Illustrations and virtual templates for Smilebox animated greeting cards mobile and web. 
 
-> **NON-PROFIT PROJECTS AND FREELANCE OPPORTUNITIES**  
+ **NON-PROFIT PROJECTS AND FREELANCE OPPORTUNITIES**  
 > **Various Companies** | 2005 - Present  
 * Logo design, branding and print project designs for non-proﬁt companies, home owner associations, private groups and school projects. 
 * Print projects and pre-press for YWCA. 
 * Web site maintenance for small businesses. 
 * Annotation projects for semantic labeling in German. Providing language footnotes and curation geared towards improving AI. 
 
-> **SOCIAL MEDIA COORDINATOR**  
+ **SOCIAL MEDIA COORDINATOR**  
 > **Wetpaint** | Seattle | 2013  
 * Promoting social media presence for the German publishing house Focus Online. 
 * Scheduling, rephrasing headlines and publishing posts to reroute viewers towards the Focus website. 
 * Monitoring and guiding the treads. 
 
-> **GRAPHIC DESIGNER AND ART DIRECTOR**  
+ **GRAPHIC DESIGNER AND ART DIRECTOR**  
 > **Bonhorst & Co. Advertising Agency** | Munich | 2000 - 2004  
 * Concept, design, execution and pitch layouts of full range of print projects. 
 * Pre-press preparation. 
 * Concept and Design of websites. 
 * Art direction covering customer contact, project management and overseeing of multiple projects. 
 
-> **DESIGNER FOR VISUAL MERCHANDISING AND MARKETING**  
+ **DESIGNER FOR VISUAL MERCHANDISING AND MARKETING**  
 > **Kaufhof AG & Wagenheimer Retail Chains** | Munich | 1993 - 2000  
 * Planning, budgeting and execution of marketing strategies for and at the point of sale. 
 * Brand vision holder. 
@@ -51,10 +51,12 @@
 * Event planning and management.
 * Developing workshops for apprentices and interns.
 
--------------------------------------------------------------------------------------
+------
 
-### PROJECTS
---------------
+<h3 align="center">PROJECTS</h3>
+
+------ 
+
 [Smilebox Digital Greeting Cards:](https://mailancoma.myportfolio.com/digital-greeting-cards)
 - Collaboration with the global Smilebox team and headquarters in Israel designing animated online greeting cards. **Technologies:** Illustrator, Photoshop, Slack/Basecamp
 
