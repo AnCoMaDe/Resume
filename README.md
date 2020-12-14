@@ -80,8 +80,9 @@
 
 ------ 
 
-*USER-CENTERED DESIGN*
-Lake Washington Institute of Technology, Kirkland
+**USER-CENTERED DESIGN**
+>Lake Washington Institute of Technology, Kirkland
+
 2017 - 2018 | Summa Cum Laude
 
 *MULTIMEDIA DESIGN & PRODUCTION ASSOCIATES DEGREE*
