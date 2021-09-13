@@ -57,6 +57,10 @@
 
 ------ 
 
+> [LAKEVIEW CENTER](https://ancomadetest.site/) (project in progress)<br>
+- Redesign including concept, content structure, photography, coding and maintenance.<br>
+- **Technologies:** Lightroom, Photoshop, Illustrator, Wordpress, HTML/CSS<br>
+
 > [SMILEBOX DIGITAL GREETING CARDS](https://mailancoma.myportfolio.com/digital-greeting-cards)
 * Collaboration with the global Smilebox team and headquarters in Israel designing animated online greeting cards.
 * **Technologies:** Illustrator, Photoshop, Slack/Basecamp
