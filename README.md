@@ -20,7 +20,7 @@
 > **ancomade design** | Redmond | 2018 - Present  
 * Logo and brand development for small  businesses (German real estate holding TREUHANSA Hamburg, Kirkland Accupuncture). 
 * Amazon enhanced brand content listings including photography for Coolerguys. 
-* Website concept and programming (ABC German School). 
+* Website concept and programming (ABC German School, Lakeview Center). 
 * Illustrations and virtual templates for Smilebox animated greeting cards mobile and web. 
 
  **NON-PROFIT PROJECTS AND FREELANCE OPPORTUNITIES**  
